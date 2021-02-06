@@ -1,0 +1,12 @@
+.login_btn{
+  border: none;
+  border-radius: 3px;
+  outline-color: aqua;
+  font-size: large;
+  font-weight: 500;
+  padding: 6px 0;
+  background-color:#1877f2;
+  color: #ffffff;
+  width: 100%;
+}
+

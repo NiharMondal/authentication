@@ -1,0 +1,35 @@
+.signup_form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  padding: 8px;
+}
+h4{
+  font-size: 32px;
+  color: #1c1e21;
+}
+.form_wrapper{
+  width: 500px;
+  padding: 14px  ;
+}
+.text_field{
+  padding: 4px 0px !important;
+  
+}
+.signup_btn{
+  border: none;
+  border-radius: 3px;
+  outline-color: aqua;
+  font-size: large;
+  font-weight: 500;
+  padding: 6px 0;
+  background-color:#42b72a;
+  color: #ffffff;
+  width: 100%;
+}
+.switch_btn{
+  cursor: pointer;
+  color: #1877f2;
+}
